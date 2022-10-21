@@ -20,8 +20,6 @@ Desenvolvedor Freelancer que acredita que compartilhar conhecimento é o que mov
       <img align="center" alt="Santhiago-Android" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png">
         <img align="center" alt="Santhiago-PostgreSQL" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
         <img align="center" alt="Santhiago-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
-        <img align="center" alt="Santhiago-PHP" height="30" width="40" src="">
-        <img align="center" alt="Santhiago-PHP" height="30" width="40" src="">
 </div>
   
   ##
