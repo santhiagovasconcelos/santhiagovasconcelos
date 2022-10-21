@@ -15,7 +15,13 @@ Desenvolvedor Freelancer que acredita que compartilhar conhecimento é o que mov
   <img align="center" alt="Santhiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Santhiago-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
   <img align="center" alt="Santhiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Santhiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Santhiago-Csharp" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
+    <img align="center" alt="Santhiago-PHP" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">
+      <img align="center" alt="Santhiago-Android" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png">
+        <img align="center" alt="Santhiago-PostgreSQL" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
+        <img align="center" alt="Santhiago-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
+        <img align="center" alt="Santhiago-PHP" height="30" width="40" src="">
+        <img align="center" alt="Santhiago-PHP" height="30" width="40" src="">
 </div>
   
   ##
