@@ -1,9 +1,39 @@
-### Santhiago Vasconcelos 👋
+Hi, I'm Santhiago Vasconcelos 👋
 
-Coordenador de TI na Energética Suape, apaixonado por desenvolvimento e sempre em busca de novos conhecimentos.
+I'm an IT Infrastructure & DevOps professional with over 10 years of experience in technology, working across infrastructure, cloud, cybersecurity, systems integration, automation, and software development.
 
-Desenvolvedor Freelancer que acredita que compartilhar conhecimento é o que move novos aprendizados! 
+My career started in technical support and infrastructure, evolving through roles as IT Analyst, Supervisor, and IT Coordinator. Along the way, I also developed applications, APIs, integrations, and automation solutions to solve real business problems.
 
+🚀 What I work with
+☁️ Cloud & Infrastructure: Azure, Hyper-V, Windows Server, Active Directory, Microsoft 365
+🌐 Networking & Security: Fortinet, VPN, VLAN, SD-WAN, firewalls and network security
+🐳 DevOps: Docker, CI/CD, Git/GitHub, Linux and infrastructure automation
+💻 Development: C#, .NET, PHP, Python and JavaScript
+🔗 APIs & Integrations: REST APIs, ERP integrations and process automation
+🗄️ Databases: SQL Server, PostgreSQL and MySQL
+⚙️ Automation & IoT: Python, Raspberry Pi and hardware/software integrations
+🛠️ What I enjoy building
+
+I enjoy combining infrastructure and software development to automate processes and solve practical problems.
+
+Some of my projects and professional experience include:
+
+Development of internal web and mobile applications integrated with ERP systems
+REST API development and systems integration
+Infrastructure and network automation
+Python integrations with Raspberry Pi and industrial equipment
+Cloud and virtualization environments
+Cybersecurity and network segmentation projects
+Docker-based environments and self-hosted services
+📚 Currently learning
+
+I'm currently expanding my knowledge in DevOps, Cloud, CI/CD, containers, Infrastructure as Code and automation, while building projects to put these concepts into practice.
+
+🎯 My focus
+
+Infrastructure + DevOps + Automation + Development
+
+I believe the best solutions often come from understanding both sides: how infrastructure works and how software is built.
 
 <div align="center">
   <a href="https://github.com/santhiagovasconcelos">
