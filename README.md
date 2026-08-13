@@ -42,14 +42,6 @@ I believe the best solutions often come from understanding both sides: **how inf
 
 > Always learning, automating and building. 🚀
 
-<div align="center">
-  <a href="https://github.com/santhiagovasconcelos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhiagovasconcelos&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhiagovasconcelos&layout=compact&theme=default"/>
-
-  
-  
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Santhiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
